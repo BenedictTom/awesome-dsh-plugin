@@ -1,0 +1,6 @@
+url: https://github.com/BenedictTom/dsh-thinking-intensity
+name: BenedictTom/dsh-thinking-intensity
+category: ui
+description:
+  en: 'Turns the composer model entry into a thinking-intensity pill: a dot-matrix effort name on the left and a particle field that stretches into horizontal scan lines as the effort rises; dragging it writes the session real reasoning effort.'
+  zh: '把输入框的模型入口换成思考强度胶囊：左侧是点阵档位名，右侧粒子随档位由疏到密拉成横向光条；拨动即写回会话真实的推理强度。'
